@@ -1,0 +1,4 @@
+name = "Ie6Update"
+description = "Includes a JS file from external source for IE6 users that renders a bar at the top of the browser letting them know it's time to upgrade."
+version = "1.0"
+is_global = 1
